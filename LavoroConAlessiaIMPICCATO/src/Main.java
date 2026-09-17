@@ -4,6 +4,8 @@ public class Main {
         int nuova=5;
         int somma=nuova+10;
         int differenza=nuova-3;
+        int prodotto=nuova*2;
+        
         System.out.println("La somma è: " + somma);
 
 
