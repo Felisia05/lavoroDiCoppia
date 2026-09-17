@@ -1,7 +1,11 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        int a = 5;
+        int nuova=5;
+        int somma=nuova+10;
+        System.out.println("La somma è: " + somma);
+
+
     }
 
 }
