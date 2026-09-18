@@ -29,5 +29,4 @@ public class persona {
     public void setDataNascita(String dataNascita) {
         this.dataNascita = dataNascita;
     }
-
 }
